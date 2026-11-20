@@ -8,7 +8,7 @@ relacionadas (`maquinas` y `operaciones`). El dataset final consultado contiene
 10 000 registros y 9 columnas.
 
 ## Archivos esperados
-- `Trabajo_Final_Herramientas_IA_EXPLICADO.ipynb`: notebook completo con código y explicaciones.
+- `Trabajo_Final_Herramientas_IA.ipynb`: notebook completo con código y explicaciones.
 - `ai4i2020.csv`: CSV original descargado desde UCI.
 - `mantenimiento_industrial.sql`: exportación SQL de la base de datos.
 - `mantenimiento_industrial.db`: archivo SQLite.
