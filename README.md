@@ -18,7 +18,7 @@ relacionadas (`maquinas` y `operaciones`). El dataset final consultado contiene
 - `wiki/Home.md`: borrador del informe para publicar en la Wiki de GitHub.
 
 ## Cómo ejecutar
-1. Abrir `Trabajo_Final_Herramientas_IA_EXPLICADO.ipynb` con Google Colab.
+1. Abrir `Trabajo_Final_Herramientas_IA.ipynb` con Google Colab.
 2. Ejecutar las celdas en orden desde arriba. Se descarga el CSV público.
 3. Revisar la creación de las tablas, consultas y gráficos.
 4. Descargar los archivos SQL, DB, dataset final y figuras para el repositorio.
